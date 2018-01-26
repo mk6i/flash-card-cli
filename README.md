@@ -10,7 +10,7 @@ This tool is useful for language learners because it can be configured to output
 
 ## Installation
 
-Download the Flash Card CLI from the [releases page](./releases) and move it to the `/usr/local/bin` directory. 
+Download the Flash Card CLI from the [releases page](https://github.com/mkaminski1988/flash-card-cli/releases) and move it to the `/usr/local/bin` directory. 
 
 ```bash
 curl -o /usr/local/bin/flash \
