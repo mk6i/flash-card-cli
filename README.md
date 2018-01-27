@@ -12,11 +12,15 @@ This tool is useful for language learners because it can be configured to output
 
 Download the Flash Card CLI from the [releases page](https://github.com/mkaminski1988/flash-card-cli/releases) and move it to the `/usr/local/bin` directory. 
 
+Quick install:
+
 ```bash
-curl -o /usr/local/bin/flash \
+curl -O \
 -L https://github.com/mkaminski1988/flash-card-cli/releases/download/1.0/flash-macos && \
-chmod +x /usr/local/bin/flash
+chmod +x flash-macos && \
+mv flash-macos /usr/local/bin/flash
 ```
+
 ## Usage
 
 #### Input File `vocab.csv`
