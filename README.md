@@ -18,7 +18,7 @@ Quick install:
 curl -O \
 -L https://github.com/mkaminski1988/flash-card-cli/releases/download/1.0/flash-macos && \
 chmod +x flash-macos && \
-mv flash-macos /usr/local/bin/flash
+sudo mv flash-macos /usr/local/bin/flash
 ```
 
 ## Usage
